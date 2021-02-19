@@ -1,0 +1,40 @@
+.app {
+  width: 50%;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tub {
+  height: 100px;
+  border: solid 1px red
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.align-end {
+  align-items: flex-end;
+}
+
+.pt-4 {
+  padding-top: 4px
+}
+
+.pl-4 {
+  padding-left: 4px
+}
+
+.water {
+  background-color: dodgerblue;
+  width: 100%;
+}
